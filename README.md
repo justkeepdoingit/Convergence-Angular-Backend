@@ -1,3 +1,9 @@
+=======
+# Convergence-Angular-Backend
+My Convergence Blogging Site Backend for working login and registration with complete security. It may or may not be enough to be secure. But you can add more things if you want
+>>>>>>> 45b782efd4455e85e47eec09b7f7010a3cf1032d
+
+=========================================================================================
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
